@@ -1,2 +1,2 @@
 
-web: gunicorn Flask_try:app
+web: gunicorn app:app
